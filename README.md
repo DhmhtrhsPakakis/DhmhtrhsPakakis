@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhmhtrhsPakakis
 - 👀 I’m interested in software engineering,in artificial intelligence and generally in learning coding.
 - 🌱 I’m currently learning computer science in aristotle university of thessaloniki.
-- 💞️ I’m looking to improve my skills in coidng and work on projects.
+- 💞️ I’m looking to improve my skills in coding and work on projects.
 - 📫 How to reach me email:pakakisd@gmail.com
 
 <!---
